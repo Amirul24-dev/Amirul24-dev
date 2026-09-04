@@ -7,14 +7,14 @@ I've been learning to code on and off since I was 12, and after many years of st
 
 I'm still learning and figuring things out, but I'm challenging myself to become better at coding — one project at a time. 🚀
 
-🛠️ What I'm Working On
+### 🛠️ What I'm Working On
 
 Currently, I'm working on:
+- 📊 Data reports & data analysis projects
+- 🧮 Interactive calculators
 
-  📊 Data reports & data analysis projects
-  🧮 Interactive calculators
-  💻 Small projects to strengthen my coding fundamentals
-  🌱 My Learning Journey
+
+### 🌱 My Learning Journey
 
 I'm currently exploring two main paths:
 
@@ -28,7 +28,7 @@ I'm currently exploring two main paths:
 
 I'm taking it step by step, building projects along the way, and learning from every mistake. 😄
 
-📫 Let's Connect
+### 📫 Let's Connect
 
 📧 Email: aamirulaiman65@gmail.com
 
